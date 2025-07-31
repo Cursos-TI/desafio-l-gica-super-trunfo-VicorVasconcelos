@@ -5,7 +5,7 @@ Este é o desafio do **nível aventureiro** do projeto Super Trunfo. Aqui, adici
 ## 🎯 O que esse programa faz
 
 - Mostra um menu para o jogador escolher qual atributo comparar.
-- Compara dois países com base nesse atributo.
+- Compara Brasil e Japão com base nesse atributo.
 - Mostra o nome dos países, o valor de cada um no atributo escolhido e quem venceu.
 - Se o atributo escolhido for **Densidade Demográfica**, a regra é invertida: vence quem tiver **menor valor**.
 
@@ -35,7 +35,7 @@ gcc super_trunfo_aventureiro.c -o super_trunfo_aventureiro
 
 ## 👨🏻‍💻 Observações
 
-- O código segue as regras do desafio, usando só o que já foi estudado até agora (sem for, while, struct, etc).
+- O código segue as regras do desafio, usando só o que já foi estudado até agora
 - Os dados das cartas já estão preenchidos no código.
 - Os valores são fictícios e servem apenas para fins de comparação.
 
